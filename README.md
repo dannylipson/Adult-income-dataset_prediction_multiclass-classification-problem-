@@ -5,6 +5,7 @@ The training set and testing set come from a modified version of the dataset fou
 Instead of traditional binary classification problem, three classes are available for prediction.
 
 Listing of attributes (Target Variables): >100K, 50-100K, <=50K.
+The dataset contains mix of numerical features as well as categorical features. Intotal there are 14 input features.
 
 The Order of work in this project are listed below,
 
